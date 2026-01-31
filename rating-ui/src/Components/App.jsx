@@ -1,6 +1,4 @@
-const Rating = () => {
-  return (<div>Rate Your Experience</div>)
-}
+import Rating from './Rating.jsx';
 const App = () => {
   return (
     <div>
